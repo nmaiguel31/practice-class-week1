@@ -1,0 +1,26 @@
+body{
+    /* color de fondo */
+    background-color: brown;
+}
+
+/* SELECTOR DE ETIQUETA */
+header{background-color: coral;
+/* ancho */
+    width: 100%;
+/* alto */
+height: 100px;
+/* color al texto */
+color: white;}
+
+/* SELECTOR DE CLASE -> .  */
+.contenedor{
+/* bordes */
+    border: solid white;
+}
+
+/* SELECTOR ID -> # */
+#listUnic{
+    background-color: bisque;
+    /* tamano de letra */
+    font-size: xx-large;
+}
